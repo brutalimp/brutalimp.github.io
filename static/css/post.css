@@ -9,7 +9,10 @@
   color: #666666;
   line-height: 1;
   padding-bottom: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
+
 .page-post .subtitle {
   font-size: 13px;
   color: #999999;
@@ -154,10 +157,6 @@
 @media screen and (max-width: 560px) {
   .page-post {
     font-size: 13px;
-  }
-  .page-post .title {
-    padding-top: 12px;
-    padding-bottom: 12px;
   }
   .page-post .subtitle {
     top: -2px;
