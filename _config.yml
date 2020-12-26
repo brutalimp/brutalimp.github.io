@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: 张书印
-description: 张书印的个人博客
+title: Zsy
+description: Zsy的个人博客
 keywords: 张书印,Blog,Html,JavaScript
-author: 张书印
-footerText: '张书印'
+author: Zsy
+footerText: 'Zsy'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
